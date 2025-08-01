@@ -29,7 +29,7 @@ Users can **view**, **search**, **add**, **edit**, and **delete** members — al
 ## 🧪 Run it locally
 
 ```bash
-git clone https://github.com/your-username/team-directory.git
+git clone https://github.com/tamtam2000/team-directory.git
 cd team-directory
 npm install
 npm start
