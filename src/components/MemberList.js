@@ -10,7 +10,7 @@ const MemberList = ({ members, searchTerm, onDelete, onEdit }) => {
   return (
     <Row className="g-4 justify-content-center">
       {filteredMembers.map((member, index) => (
-        <Col xs={12} sm={6} md={4} lg={3} key={index}>
+        <Col xs={12} sm={6} md={4} key={index}>
          <MemberCard
   member={member}
   onDelete={onDelete}
